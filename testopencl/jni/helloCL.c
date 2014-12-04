@@ -1,3 +1,4 @@
+
 #include "helloCL.h"
 extern const char *getResultString(void);
 

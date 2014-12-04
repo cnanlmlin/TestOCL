@@ -1,0 +1,22 @@
+﻿Revert "TestOCL"
+
+This reverts commit 75955a44f99a689136448a6e1db0b0ea790e5174.
+
+Conflicts:
+	testopencl/jni/helloCL.c
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 4 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# You are currently reverting commit 75955a4.
+#
+# Changes to be committed:
+#	deleted:    .gitattributes
+#	deleted:    .gitignore
+#	modified:   testopencl/jni/helloCL.c
+#
+
